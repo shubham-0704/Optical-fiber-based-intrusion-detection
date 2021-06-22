@@ -182,9 +182,9 @@ upper_thresh=pred_mean_signal+2.3*standard_deviation
 
 lower_thresh=pred_mean_signal-2.3*standard_deviation
 ```
-* Below is the grpahical demostarion of detection proces by model
+* Below is the grpahical demostarion of detection procces by model
 <p align="left">
-<img width=80% src="images_readme\final.gif" >
+<img width=90% src="images_readme\final.gif" >
 </p>
 <br>
 
