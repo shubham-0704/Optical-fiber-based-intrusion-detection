@@ -72,7 +72,7 @@ Using Optical fiber data received from **OTDR** machine then using that data in 
 * Difference of Amplitude is used as the main parameter for feeding in model and detection.
 
 <p align="left">
-<img width=25% src="images_readme\dif_amp.png" >
+<img width=45% src="images_readme\dif_amp.png" >
 </p>
 <br>
 
@@ -91,7 +91,7 @@ DiffPhase_data=data["array"][0][0]["DiffPhase"][0]
 
 * Data Visualization of single trace .
 <p align="left">
-<img width=45% src="images_readme\vis.png" >
+<img width=65% src="images_readme\vis.png" >
 </p>
 <br>
 
@@ -184,7 +184,7 @@ lower_thresh=pred_mean_signal-2.3*standard_deviation
 ```
 * Below is the grpahical demostarion of detection proces by model
 <p align="left">
-<img width=70% src="images_readme\final.gif" >
+<img width=80% src="images_readme\final.gif" >
 </p>
 <br>
 
